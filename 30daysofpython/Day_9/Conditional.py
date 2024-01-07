@@ -1,6 +1,6 @@
 # Exercise: Level 1
 # Task 1
-   user_age = int(input("Enter your age: "))
+user_age = int(input("Enter your age: "))
 if user_age >= 18:
     print("You are old enough to learn to drive.")
 else:

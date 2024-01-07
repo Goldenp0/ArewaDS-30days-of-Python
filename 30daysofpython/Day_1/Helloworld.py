@@ -1,5 +1,5 @@
 # Day 1 - Arewads30daysofpython
-vi print(2 + 3)   # addition(+)
+print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
 print(2 * 3)   # multiplication(*)
 print(3 / 2)   # division(/)
